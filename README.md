@@ -7,7 +7,7 @@ Created using MongoDB, Express.js, React.js, Redux, Node.js
 
 ## clone or download
 ```terminal
-$ git clone git@github.com:kanishka-28/Foodie-merged.git
+$ git clone git@github.com:vilanel-codes/Foodie-K.git
 ```
 
 
@@ -69,13 +69,3 @@ redux: ^3.7.2 | serverless-http: ^3.2.0
 redux-thunk: ^2.1.0 | passport: ^0.4.1
 
 
-## BUGs or comments
-
-[Create new Issues](https://github.com/kanishka-28/Foodie-merged/issues) (preferred)
-
-Email Me: kanishkagour28@gmail.com (welcome, say hi)
-
-## Author
-[kanishka-28]([https://master--kanishka-gour.netlify.app/])
-
-"# Foodie-K" 
